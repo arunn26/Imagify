@@ -3,7 +3,7 @@
 A platform that allows users to generate images from text prompts using AI, manage credits, and purchase more credits via Razorpay.
 
 ## Live Site
-[Visit the live site](https://imagify-frontend-0eiw.onrender.com/)
+[Link](https://imagify-frontend-0eiw.onrender.com/)
 
 ## Credentials
 
